@@ -1,8 +1,8 @@
 # The World in One Day — Saturday 21 November 2026
 
-[![make.fun](https://make.fun/c/news-image-20261121/badge)](https://make.fun/bounty/news-image-20261121)
-[![rank](https://make.fun/c/news-image-20261121/rank/radeisv/news-image-21-nov-2026-r2/badge)](https://make.fun/bounty/news-image-20261121)
-[![reward](https://make.fun/c/news-image-20261121/reward/radeisv/news-image-21-nov-2026-r2/badge)](https://make.fun/bounty/news-image-20261121)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/radeisv/news-image-21-nov-2026-r2/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/radeisv/news-image-21-nov-2026-r2/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 One image that sums up Saturday 21 November 2026: 35 dated stories, 7 regions.
 Round 2, rebuilt on the rank-1 pattern (samatch-we, 99.19%): the same front-page
